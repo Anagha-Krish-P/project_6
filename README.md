@@ -68,11 +68,5 @@ This project shows the full KNN workflow:
 - `seaborn`
 - `scikit-learn`
 
----
 
-##  **How to Run**
 
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-directory>
